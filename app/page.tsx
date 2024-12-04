@@ -79,7 +79,13 @@ const Home: React.FC = () => {
       <div className="max-w-7xl mx-auto">
         <h1 className="text-5xl font-bold mb-10 text-center text-neutral-100 flex items-center justify-center">
           <RocketIcon className="mr-6 text-amber-500" size={48} />
-          ISRO Mission Explorer
+          {darkMode ? (<p className="mr-6 text-white" >
+          VyomTracker
+          </p> ):(
+          <p className="mr-6 text-black" >
+          VyomTracker
+          </p>
+          )}
           <Satellite className="ml-6 text-emerald-500" size={48} />
         </h1>
 
