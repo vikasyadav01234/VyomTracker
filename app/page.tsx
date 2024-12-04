@@ -1,11 +1,7 @@
-//todo: beautify the visuals
-//todo: integrate ai
+//todo: integrate ai 
 //todo add pagination if time 
-//todo add search bar
 //add ai grenerated image
-//text edit to space like ese emojis vgira 
 
-// Space-themed Home Page with Search and Light/Dark Mode
 "use client";
 
 import React, { useEffect, useState } from "react";
