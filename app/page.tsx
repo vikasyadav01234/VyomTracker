@@ -1,6 +1,11 @@
 //todo: integrate ai 
-//todo add pagination if time 
+//add pagination if time 
 //add ai grenerated image
+//add other things as well apart from launches
+//make api (showing detail of all satellites; ground facilities etc)
+//add filter 
+//mission payload 3D model
+//educational things showing up how launches and everything takes up place 
 
 "use client";
 
